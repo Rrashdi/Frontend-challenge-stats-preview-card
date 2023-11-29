@@ -18,5 +18,5 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Rrashdi/Frontend-challenge-stats-preview-card)
-- Live Site URL: [Add live site URL here](https://rrashdi.github.io/Frontend-challenge-stats-preview-card/)
+- Solution URL: (https://github.com/Rrashdi/Frontend-challenge-stats-preview-card)
+- Live Site URL: (https://rrashdi.github.io/Frontend-challenge-stats-preview-card/)
